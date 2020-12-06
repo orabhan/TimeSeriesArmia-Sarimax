@@ -1,1 +1,1 @@
-# TimeSeriesArmia-Sarimax
+# ARIMA-And-Seasonal-ARIMA
